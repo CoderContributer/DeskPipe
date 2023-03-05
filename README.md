@@ -1,2 +1,2 @@
-# NewPipeForDesktop
-An electron app that uses the NewPipe extractor to get youtube videos.
+# Desk
+An electron app that uses the youtbe-dl to get youtube videos.
